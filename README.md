@@ -1,2 +1,2 @@
-# Future-and-Odds
+# Future and Odds
 Complex ITs made simple. Kappa
